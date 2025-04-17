@@ -1,0 +1,9 @@
+button{
+    color: aqua;
+    background-color: aquamarine;
+}
+
+button:hover{
+    color: blue;
+    transition: ease-in-out 0.1s;
+}
